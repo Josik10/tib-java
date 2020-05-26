@@ -25,3 +25,4 @@ Známá hra s padajícími kostkami.
 ## Soutěž Mladý programátor
 
 ## Ostatní
+[![Run on Repl.it](https://repl.it/badge/github/matyasbohacek/tib-java)](https://repl.it/github/matyasbohacek/tib-java)
